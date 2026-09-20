@@ -1,3 +1,3 @@
 F001|Meromantisasi Coding|Romance|360|2027
-F002|Ngoding Itu Menyenangkan Jika Paham|Drama|20|2019
-F003|Different|Drama|69|2026
+F002|Lupakan Kesedihan Ini|Drama|23|2025
+F004|Lapar|Horor |50|2026
