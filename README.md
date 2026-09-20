@@ -1,6 +1,11 @@
 # T1PDPBO2526C2
 Tugas Praktikum 1 DPBO
 
+## Identitas
+Nama  : Andina Dwi Listiana
+NIM  : 2501065
+Kelas  : C2
+
 ## Janji
 Saya Andina Dwi Listiana dengan NIM 2501065 mengerjakan TP 1
 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
